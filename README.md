@@ -1,12 +1,12 @@
-# CPOP-ALL-DATA-2005-2011-UTF-8
+##  CPOP-ALL-DATA-2005-2011-UTF-8
 数据仅为CPOP历年主要是2005-2011中文专辑和歌曲简介，不包括CPOP音乐。
 2020年3月10日更新：
 打包成了json格式数据包（UTF-8编码），包含9万多首歌曲、7000多个专辑的全部中文介绍、歌曲信息。
 压缩包里除了数据，还附上了json查看器。
 
-数据举例：
+## 数据举例：
 
- "James_Li_-_Hua_Huo_Chai_De_Nv_Hai_(Taiwan_Version)-CPOP-2006-Luna":{
+    $  "James_Li_-_Hua_Huo_Chai_De_Nv_Hai_(Taiwan_Version)-CPOP-2006-Luna":{
     "specialid":"2",
     "m_month":"200603",
     "sortid":"1",
@@ -127,12 +127,16 @@
   
   
   
-说明：  
+## 说明：  
 1、name为标准的CPOP命名，如上的“James_Li_-_Hua_Huo_Chai_De_Nv_Hai_(Taiwan_Version)-CPOP-2006-Luna”，便于检索。
 2、各数据显而易见，不用多说。
 
 
-墙内：
+## 墙内：
 
-链接：https://pan.baidu.com/s/1pMyGAuTRgRnP_WlO2SeTuw 
-提取码：r1a6
+## 链接：
+
+    $ https://pan.baidu.com/s/1pMyGAuTRgRnP_WlO2SeTuw 
+提取码：
+
+    $ r1a6
